@@ -1,5 +1,5 @@
 # pull the official base image
-FROM python:3.10.13-bullseye
+FROM python:3.11.6-bullseye
 
 #RUN apt-get update && apt-get install -y mysql-client
 # set work directory
